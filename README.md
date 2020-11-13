@@ -1,2 +1,5 @@
 # ECG-Paper-Record-Digitization-and-Analysis
-Conversion of Electrocardiography paper records to binarization and converting to digital form in order to extract features to feed in the machine learning model.
+Conversion of Electrocardiography paper records to digitized form. Application of binarization techniques using OpenCV have been used to remove the background noise in the images and connected broken lines of the ECG cruve by using morphological transformations to extract features to feed in the machine learning model.
+
+
+
